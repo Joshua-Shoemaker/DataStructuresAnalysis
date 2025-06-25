@@ -5,3 +5,5 @@
 |Vector(Dynamic Array)|$4n \cdot d$|$O(n)$|
 |Binary Search Tree|$3n \cdot d$|$O(n)$|
 |Hash Table|$5n \cdot d$|$O(n)$|
+
+### You can view the full word document [here](./Project1_RunTime_Analysis.docx).
