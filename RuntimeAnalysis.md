@@ -6,4 +6,4 @@
 |Binary Search Tree|$3n \cdot d$|$O(n)$|
 |Hash Table|$5n \cdot d$|$O(n)$|
 
-### You can view the full word document [here](./Project1_RunTime_Analysis.docx).
+### You can download the full word document [here](./Project1_RunTime_Analysis.docx) by clicking the download button or view raw file.
