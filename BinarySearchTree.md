@@ -18,7 +18,7 @@
 
 ---
 
-### Description
+## Description
 My Binary Search Tree (BST) implementation is a data structure where nodes are organized to satisfy the BST property: all elements in a node's left subtree are less than the node's value, and all elements in its right subtree are greater. This structure allows efficient operations like insertion, deletion, and searching. For example, inserting values like 13, 3, 4, and others in sequence creates a BST where an inorder traversal yields a sorted sequence of keys. The highest and lowest values can be quickly found by traversing to the rightmost and leftmost nodes, respectively, making this BST ideal for applications requiring ordered data management. Reference: ([W3Schools](https://www.w3schools.com/dsa/dsa_data_binarysearchtrees.php))
 
 At the time of creating this tree I knew it was going to be used for an object that needed a print method and member variables. Therefore I didn't make the BST completely universal. To use this BST without modification the object stored in it will have to have a key member variable to compare for and a print method.
